@@ -1,0 +1,25 @@
+@import url("common.css");
+
+.skill{margin-bottom:20px}
+.skill-top{
+    display:flex;
+    justify-content:space-between;
+    margin-bottom:7px
+}
+.progress{
+    height:9px;
+    background:var(--border);
+    border-radius:10px;
+    overflow:hidden
+}
+.progress span{
+    display:block;
+    height:100%;
+    background:var(--primary)
+}
+.w75{width:75%}
+.w72{width:72%}
+.w60{width:60%}
+.w85{width:85%}
+.w80{width:80%}
+.w65{width:65%}

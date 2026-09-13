@@ -1,0 +1,9 @@
+@import url("common.css");
+
+.about-box{
+    margin-bottom:25px
+}
+.highlight{
+    border-left:4px solid var(--primary)
+}   
+

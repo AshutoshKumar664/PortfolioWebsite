@@ -1,0 +1,22 @@
+@import url("common.css");
+
+.contact-item{
+    margin-bottom:18px
+}
+.contact-item strong{
+    display:block;margin-bottom:3px
+}
+.contact-item span{
+    color:var(--muted)
+}
+.socials{
+    display:flex;
+    gap:14px;
+    margin-top:20px;
+    flex-wrap:wrap
+}
+.socials a{
+    color:var(--primary);
+    text-decoration:none;
+    font-weight:700
+}
