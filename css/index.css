@@ -1,7 +1,15 @@
 @import url("common.css");
 
 .quick-stats{
-    margin-top:35px
+    /* margin-top:35px */
+    height: 200px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around ;
+    flex-wrap: wrap;
+    gap: 35px;
+    align-items: center;
+
 }
 .home-card{
     min-height:150px
@@ -14,4 +22,12 @@
     border-radius: 50%;
     display: block;
     margin: 0 auto 18px;
+}
+.about-ash{
+    margin: auto;
+    padding: auto;
+    background-color: rgb(241, 241, 241);
+    text-decoration: none;
+    border-radius:10px;
+    background-color: rgb(243, 77, 77);
 }
