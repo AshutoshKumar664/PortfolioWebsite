@@ -4,13 +4,14 @@
 
     --text: #FAFAFA;
     --muted: #A1A1AA;
+    /* --hedtext:#141419; */
 
     --border: #27272A;
 
     --primary: #EF4444;
     --primary-dark: #DC2626;
 
-    --soft: #3B1515;
+    --soft: #622424;
 
     --footer: #09090B;
 }
